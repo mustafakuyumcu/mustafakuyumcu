@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mustafakuyumcu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C C++ HTML CSS
 - 📫 How to reach me instagram @mustafaakuyumcu
 
 <!---
